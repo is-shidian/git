@@ -3,4 +3,4 @@ Git is a version control system.
 Git is free software.
 Git is git.
 Git tests.
-Git new branch feature1.
+Git new branch master.
